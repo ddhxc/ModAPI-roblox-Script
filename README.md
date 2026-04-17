@@ -22,6 +22,9 @@ discord: https://discord.gg/DsGsVJTZHx
 ## 🌐 All of the game links
 
 + **Tsunami for Femboys:**  
+loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/ddhxc/ModAPI-roblox-Script/refs/heads/main/Tsunami%20For%20Femboy.lua"))()
+Paste the loadstring into your executer and execute it!
+
 https://www.roblox.com/games/127809219596493/Escape-Tsunami-For-Femboys
 
 + **One Block:**  
