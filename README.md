@@ -27,11 +27,15 @@ loadstring:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ddhxc/ModAPI-roblox-Script/refs/heads/main/Tsunami%20For%20Femboy.lua"))()
 
 Game link:
-https://www.roblox.com/games/127809219596493/Escape-Tsunami-For-Femboys
+[Tsunami For Femboy](https://www.roblox.com/games/127809219596493/Escape-Tsunami-For-Femboys)
 
 + **One Block:**  
-https://www.roblox.com/games/87124461329967/ONE-BLOCK
+loadstring:
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ddhxc/ModAPI-roblox-Script/refs/heads/main/OneBlockModAPICheat.lua"))()
+
+Game link:
+[Game link](https://www.roblox.com/games/87124461329967/ONE-BLOCK)
 ---
 
 ## 🔥 What’s in here
